@@ -15,6 +15,9 @@
 button{
     height: 40px;
 }
+.info__img-next{
+    transform: translate(0px, 7 px);
+}
 .info__button{
     display: flex;
     align-items: center;
